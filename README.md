@@ -2,7 +2,7 @@
 Nama  : William A. Sijabat
 NIM   : 181401091
 
-Program yang saya buat program piano yang ketika key pada keyboard di tekan, makan warna keyboard akan berubah
+Program yang saya buat program piano yang ketika key pada keyboard di tekan, maka warna kunci piano akan berubah akan berubah
 
 Keyboard 'A' untuk merubah warna kunci C
 
